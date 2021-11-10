@@ -29,6 +29,7 @@ const App: React.FC = () => {
       justifyContent="center"
       role="main"
     >
+      <h1 style={{display: "none"}}>Frontend Mentor</h1>
       <Stack
         alignItems="flex-end"
         alignSelf="center"
